@@ -1,0 +1,3 @@
+It is not possible to sort a dictionary, only to get a representation of a dictionary that is sorted.
+Dictionaries are inherently orderless, but other types, such as lists and tuples, are not.
+So you need an ordered data type to represent sorted values, which will be a list—probably a list of tuples.
